@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hubert Bertling
 - 🌱 I’m retired and enjoy getting involved in the world of web development.
-- I have developed a Sudoku solver/generator. 
-  - The special feature of this solver is that you can watch it find the solution. 
+- I have developed a Sudoku trainer consisting of a solver, a generator and a puzzle database. 
+  - The special feature of the solver is that you can watch it find the solution. 
   - Each numbering in a cell is justified and thus comprehensible.
   - The generator produces puzzles that can be solved without backtracking. Simply by logical reasoning. 
 - 📫 How to reach me: h.bertling@web.de

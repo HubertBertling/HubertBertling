@@ -3,5 +3,7 @@
 - I have developed a Sudoku trainer consisting of a solver, a generator and a puzzle database. 
   - The special feature of the solver is that you can watch it find the solution. 
   - Each numbering in a cell is justified and thus comprehensible.
-  - The generator produces puzzles that can be solved without backtracking. Simply by logical reasoning. 
+  - The generator creates puzzles for all levels of difficulty, including unsolvable and ambiguous puzzles.
+  - The aim of this trainer is not only to practice the application of logical inference rules, but also to provide
+  - an overview of and deep insights in the whole 9x9-Sudoku space.  
 - 📫 How to reach me: h.bertling@web.de
